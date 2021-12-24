@@ -1,0 +1,25 @@
+{
+  "name": "js-test-boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RaccoonDev/js-test-boilerplate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RaccoonDev/js-test-boilerplate/issues"
+  },
+  "homepage": "https://github.com/RaccoonDev/js-test-boilerplate#readme",
+  "dependencies": {
+    "@babel/core": "^7.16.5",
+    "@babel/preset-env": "^7.16.5",
+    "babel-jest": "^27.4.5",
+    "jest": "^27.4.5"
+  }
+}
